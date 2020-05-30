@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreToDO", "AspNetCoreToDO.csproj", "{7B5A7016-BE73-4364-BCEA-2142236EADBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B5A7016-BE73-4364-BCEA-2142236EADBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5A7016-BE73-4364-BCEA-2142236EADBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5A7016-BE73-4364-BCEA-2142236EADBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5A7016-BE73-4364-BCEA-2142236EADBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
