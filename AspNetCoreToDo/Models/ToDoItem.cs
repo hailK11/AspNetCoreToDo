@@ -9,7 +9,7 @@ namespace AspNetCoreToDo.Models
 
         public bool IsDone { get; set; }
 
-        [required]
+        [Required]
         public string Title { get; set;}
 
         public DateTimeOffset? DueAt { get; set;}
