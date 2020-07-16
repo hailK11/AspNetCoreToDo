@@ -8,6 +8,9 @@ namespace AspNetCoreToDo.Controllers
 {
     public class ToDoController : Controller
     {
-        
+       public IActionResult Index()
+       {
+           
+       } 
     }
 }
